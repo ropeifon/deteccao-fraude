@@ -112,7 +112,7 @@ if colunas_st == 'Predição':
        gender = st.radio('Gênero', ['M', 'F'])
 
       
-   st.header('Informações Geográfica do cliente')
+   st.header('Informações geográficas do cliente')
 
    coluna1, coluna2, coluna3, coluna4, coluna5, coluna6 = st.columns(6)
 
@@ -136,7 +136,7 @@ if colunas_st == 'Predição':
        long = st.number_input('Longitude')
        
 
-   st.header('Informações do Comerciante')
+   st.header('Informações do comerciante')
 
    coluna1, coluna2= st.columns(2)
  
@@ -150,7 +150,7 @@ if colunas_st == 'Predição':
    amt = st.number_input('Escreva um alcance de valor')
 
    
-   st.header('Informações Temporais')
+   st.header('Informações temporais')
 
    coluna1, coluna2, coluna3, coluna4 = st.columns(4)
  
