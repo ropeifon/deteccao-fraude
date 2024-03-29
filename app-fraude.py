@@ -85,7 +85,7 @@ if colunas_st == 'Introdução':
     st.caption('Este aplicativo foi desenvolvido para detectar fraudes em transações de cartão de crédito.')
     st.text('Selecione as colunas ao lado esquerdo para fazer as previsões')
     st.text('OU') 
-    st.text('anlisar os dados que mais ocorreram fraudes.')
+    st.text('analisar os dados que mais ocorreram fraudes.')
 
    
 
