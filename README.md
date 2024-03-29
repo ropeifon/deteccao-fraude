@@ -31,3 +31,7 @@ Neste projeto, iciamos com uma base de dados (arquivo .csv) com alguns dados do 
 > 90% finalizado.
 
 O que ainda será feito no projeto? Será adicionado um dashboard interativo no aplicativo para que a equipe de segurança possa visualizar os dados de uma forma precisa e consistente. O modelo também pode ser melhorado, isto é, podemos criar novas features e realizar análise também de Feature Importance. Todas estas melhorias serão adicionadas ao longo do tempo. 
+
+# Link do aplicativo
+
+[O aplicativo pode ser acessado clicando aqui](https://deteccao-fraude-robpeifon.streamlit.app)
