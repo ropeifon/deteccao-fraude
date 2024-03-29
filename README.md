@@ -1,5 +1,5 @@
 # Projeto: Previsão e análise de fraude em transações de cartão de crédito
- Fomos contratados por um dos maiores bancos do país, o Banco Seguro (nome fictício), como cientista e analista de dados para ajudar a combater o aumento alarmante de fraudes em transações de cartão de crédito. Em uma reunião inicial com a equipe de segurança e prevenção de fraudes do banco, ficou claro que a situação atual está se tornando insustentável, com perdas financeiras significativas e uma crescente desconfiança por parte dos clientes.
+Fomos contratados por um dos maiores bancos do país, o Banco Seguro (nome fictício), como cientista e analista de dados para ajudar a combater o aumento alarmante de fraudes em transações de cartão de crédito. Em uma reunião inicial com a equipe de segurança e prevenção de fraudes do banco, ficou claro que a situação atual está se tornando insustentável, com perdas financeiras significativas e uma crescente desconfiança por parte dos clientes.
 
 # Objetivo 
 
@@ -7,7 +7,7 @@ O objetivo é **analisar os dados e identificar padrões nas transações suspei
 
 # Detalhes do Projeto
 
-Neste projeto, iciamos com uma base de dados (arquivo .csv) com alguns dados do problema. Passamos por várias etapas ao longo de toda a exploração do projeto, são elas: 
+Neste projeto, iniciamos com uma base de dados (arquivo .csv) com alguns dados do problema de fraude. Passamos por várias etapas ao longo de toda a realização do projeto, são elas: 
 
 + Análise exploratória dos dados com o objetivo de identificar como os dados estão se comportando.
 + Tratamento de valores inconsistentes e valores faltantes.
@@ -24,7 +24,7 @@ Neste projeto, iciamos com uma base de dados (arquivo .csv) com alguns dados do 
 + Visualizações de métricas como Recall, F1-score e ferramentas como a Curva ROC e a Matriz de Confusão para averiguar o desempenho do modelo
 + Criação de um pipeline para previsão em novos dados
 + Deploy do modelo
-+ Bônus: Redes Neurais Profundas e Voting Classifier)
++ Bônus: Redes Neurais Profundas e Voting Classifier
 
 ## Status do projeto: 
 
