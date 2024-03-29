@@ -83,9 +83,9 @@ colunas_st = st.sidebar.selectbox(
 if colunas_st == 'Introdução':
     st.title('Detector de fraudes')
     st.caption('Este aplicativo foi desenvolvido para detectar fraudes em transações de cartão de crédito.')
-    st.text('Selecione as colunas ao lado esquerdo para fazer as previsões')
+    st.text('Use a coluna ao lado esquerdo para fazer as previsões')
     st.text('OU') 
-    st.text('analisar os dados que mais ocorreram fraudes.')
+    st.text('visualizar o relatório sobre fraudes')
 
    
 
